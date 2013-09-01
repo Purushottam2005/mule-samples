@@ -1,3 +1,5 @@
+
 [submodule "mule-product-registration"]
 	path = mule-product-registration
 	url = https://github.com/cmontemuino/mule-product-registration.git
+	branch = master
